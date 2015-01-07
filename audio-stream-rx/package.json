@@ -1,0 +1,16 @@
+{
+  "name": "audio-stream-rx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rx.js",
+  "dependencies": {
+    "socket.io": "^1.2.1",
+    "socket.io-stream": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

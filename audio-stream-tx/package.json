@@ -1,0 +1,17 @@
+{
+  "name": "audio-stream-tx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tx.js",
+  "dependencies": {
+    "socket.io-client": "^1.2.1",
+    "socket.io-stream": "^0.6.0",
+    "microphone": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
